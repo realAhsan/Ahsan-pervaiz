@@ -17,7 +17,7 @@ function Home() {
         </div>
 
         <a
-          href="/Ahsan-Pervaiz-Resume.pdf"
+          href="imgs/Ahsan-Pervaiz-Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="animation active "
