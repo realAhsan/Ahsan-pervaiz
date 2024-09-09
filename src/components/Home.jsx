@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import CustomHook from "./CustomHook";
+
 function Home() {
   const scrollTab = useRef();
   CustomHook(scrollTab);
@@ -26,7 +27,7 @@ function Home() {
       </div>
       <div className="avatar">
         <div className="card">
-          <img src="../../public/ahsan.png" alt="" />
+          <img src="Ahsan.png" alt="Ahsan pervaiz profile photo" />
           <div className="info">
             <div>MERN DEVELOPER</div>
             <div>Pakistan</div>
