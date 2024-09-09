@@ -13,7 +13,7 @@ function Projects() {
       des: "Lively is a Real Time Bus Tracking system that allows user to track a bus real live location, It includes 2 mobile Apps implemented using React Native and Admin dashboard using MERN ",
       mission: "Real Time Tracking",
       language: "React JS, Node JS, MongoDB, React Native, Socket IO",
-      images: "../../public/lively.PNG",
+      images: "/lively.png",
       link: "https://github.com/realAhsan/FYP",
     },
     {
@@ -21,7 +21,7 @@ function Projects() {
       des: "Task Management System using MERN. it Allows user to  Add, edit, and delete tasks and drag and drop tasks to changes their status on Scrum board ",
       mission: "Back-end Developer, system analysis and design",
       language: "React JS, Node JS, MongoDB,  ShadeCn",
-      images: "../../public/webflow.PNG",
+      images: "/webflow.png",
       link: "https://max-flow.vercel.app",
     },
     {
@@ -30,7 +30,7 @@ function Projects() {
       mission:
         "Machine Learning algorithm implementation, system analysis and design",
       language: "HTML5, CSS3, REACT JS, Tailwind CSS ",
-      images: "../../public/xcribe.PNG",
+      images: "/xcribe.png",
       link: "https://xcribe.netlify.app/",
     },
     {
@@ -38,7 +38,7 @@ function Projects() {
       des: "A Landing page for Home Tutor Service ",
       mission: "UI Design and Implementation",
       language: "HTML5, CSS3, Tailwind CSS ",
-      images: "../../public/hometut.PNG",
+      images: "/hometut.png",
       link: "https://home-tutor-plus.netlify.app/",
     },
     {
@@ -46,7 +46,7 @@ function Projects() {
       des: "A simple Shopping Website with functional cart functionality ",
       mission: "Functional cart Implementation",
       language: "HTML5, CSS3, Tailwind CSS, Axios",
-      images: "../../public/cart.PNG",
+      images: "/cart.png",
       link: "https://shop-ly.netlify.app/",
     },
   ]);
