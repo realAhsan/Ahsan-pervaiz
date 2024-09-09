@@ -27,7 +27,10 @@ function Home() {
       </div>
       <div className="avatar">
         <div className="card">
-          <img src="imgs/Ahsan.png" alt="Ahsan pervaiz profile photo" />
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4D03AQFDrOO0wnohLg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725879378924?e=1731542400&v=beta&t=WGu4f41eKf2hq8iz7t1dEbkb2XpeD-kVrSFtjrH6fUg"
+            alt="Ahsan pervaiz profile photo"
+          />
           <div className="info">
             <div>MERN DEVELOPER</div>
             <div>Pakistan</div>
