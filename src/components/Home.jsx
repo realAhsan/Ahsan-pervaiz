@@ -27,7 +27,7 @@ function Home() {
       </div>
       <div className="avatar">
         <div className="card">
-          <img src="/Ahsan.png" alt="Ahsan pervaiz profile photo" />
+          <img src="imgs/Ahsan.png" alt="Ahsan pervaiz profile photo" />
           <div className="info">
             <div>MERN DEVELOPER</div>
             <div>Pakistan</div>
