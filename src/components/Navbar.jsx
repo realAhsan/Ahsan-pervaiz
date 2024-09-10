@@ -19,7 +19,6 @@ const NavBar = ({ activeTab }) => {
   return (
     <header>
       <div className="logo">
-        {/* <img src="/logo.png" alt=""/> Portfolio */}
         <h1>
           Ahsan <span className="dot">.</span>
         </h1>
